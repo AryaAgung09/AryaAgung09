@@ -2,6 +2,21 @@
 
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
+## 📌 About Me
+🎓 Seventh-semester Applied Software Engineering (TRPL) student
+
+💻 Interested in Full-Stack Web Development and Software Engineering
+
+🌐 Building modern, responsive, and interactive web applications
+
+🎨 Interested in UI/UX Design and Frontend Development
+
+📱 Interested in Mobile App Development and Internet of Things (IoT)
+
+📚 Always learning, exploring new technologies, and improving my skills
+
+🤝 Open to collaboration, learning opportunities, and exciting projects
+
 ## 🧠 My Focus Areas
 - Full-Stack Web Development
 - Frontend Development
