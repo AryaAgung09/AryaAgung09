@@ -19,9 +19,7 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=AryaAgung09&theme=shades-of-purple&hide_border=true&cache_seconds=86400" alt="AryaAgung09's GitHub Streak" width="49%" />
 </p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=AryaAgung09&theme=shades-of-purple&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Arya Agung Setiawan's GitHub Trophies" />
-</p>
+
 
 
 ## 🛠️ Languages & Tools
