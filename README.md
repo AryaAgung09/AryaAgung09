@@ -18,8 +18,8 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=AryaAgung09&theme=shades-of-purple&hide_border=true&cache_seconds=86400"
-    alt="AryaAgung09's GitHub Streak"
+    src="https://github-stats-extended.vercel.app/api?username=AryaAgung09&include_all_commits=true&theme=midnight-purple&hide_border=true"
+    alt="GitHub Stats"
     width="49%"
   />
 </p>
