@@ -19,7 +19,7 @@
 
 <p align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api?username=AryaAgung09&include_all_commits=true&show_icons=true&theme=shades-of-purple&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api?username=AryaAgung09&include_all_commits=true&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&show_icons=true&theme=shades-of-purple&hide_border=true"
     alt="AryaAgung09 GitHub Stats"
     width="70%"
   />
