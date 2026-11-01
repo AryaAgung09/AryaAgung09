@@ -24,14 +24,6 @@
 - Mobile App Development
 
 
-## 📊 GitHub Stats & Trophies
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AryaAgung09&theme=shades-of-purple&hide_border=true&cache_seconds=86400" alt="AryaAgung09's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-
-
 
 ## 🛠️ Languages & Tools
 
