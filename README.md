@@ -17,7 +17,11 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AryaAgung09&theme=shades-of-purple&hide_border=true&cache_seconds=86400" alt="AryaAgung09's GitHub Streak" width="49%" />
+  <img
+    src="https://streak-stats.demolab.com/?user=AryaAgung09&theme=shades-of-purple&hide_border=true&starting_year=2026&cache_seconds=86400"
+    alt="AryaAgung09's GitHub Streak"
+    width="49%"
+  />
 </p>
 
 
