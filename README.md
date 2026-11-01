@@ -16,9 +16,10 @@
 
 
 ## 📊 GitHub Stats & Trophies
+
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=AryaAgung09&include_all_commits=true&show_icons=true&theme=shades-of-purple&hide_border=true&cache_seconds=86400"
+    src="https://github-stats-extended.vercel.app/api?username=AryaAgung09&include_all_commits=true&show_icons=true&theme=shades-of-purple&hide_border=true"
     alt="AryaAgung09 GitHub Stats"
     width="70%"
   />
