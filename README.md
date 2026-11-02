@@ -25,7 +25,7 @@
 
 
 
-## 🛠️ Languages & Tools
+## 🛠️ Languages
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
@@ -35,7 +35,6 @@
 
 </p>
 
-<h3 align="center">Frontend</h3>
 <p align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />&nbsp;
@@ -43,14 +42,12 @@
 
 </p>
 
-<h3 align="center">Backend</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;
   <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="Laravel" width="40" />
 
 </p>
 
-<h3 align="center">Database</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
 
